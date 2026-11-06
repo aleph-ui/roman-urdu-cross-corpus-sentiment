@@ -1,0 +1,129 @@
+shared_pair,test_corpus,other_labels_from,track,model,trained_on,n_sentences,labels_agree_%,acc_vs_test_labels,acc_vs_other_labels
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,mBERT,Aimlab,995,81.7,0.805,0.796
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,mBERT,Khubaib01,995,81.7,0.689,0.779
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,mBERT,RUWV-NSR,995,81.7,0.702,0.744
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,mBERT,UCI,995,81.7,0.745,0.802
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,Char TF-IDF,Aimlab,995,81.7,0.841,0.831
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,Char TF-IDF,Khubaib01,995,81.7,0.733,0.805
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,Char TF-IDF,RUWV-NSR,995,81.7,0.721,0.742
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,Char TF-IDF,UCI,995,81.7,0.764,0.815
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,Word TF-IDF,Aimlab,995,81.7,0.828,0.816
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,Word TF-IDF,Khubaib01,995,81.7,0.723,0.798
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,Word TF-IDF,RUWV-NSR,995,81.7,0.705,0.739
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,Word TF-IDF,UCI,995,81.7,0.738,0.786
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,XLM-R,Aimlab,995,81.7,0.81,0.84
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,XLM-R,Khubaib01,995,81.7,0.745,0.845
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,XLM-R,RUWV-NSR,995,81.7,0.729,0.761
+Aimlab-Khubaib01,Aimlab,Khubaib01,binary,XLM-R,UCI,995,81.7,0.774,0.83
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,3class,mBERT,Khubaib01,4,75.0,0.833,0.917
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,3class,mBERT,RUWV-NSR,4,75.0,1.0,0.75
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,3class,mBERT,UCI,4,75.0,0.75,0.5
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,3class,Char TF-IDF,Khubaib01,4,75.0,0.833,0.75
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,3class,Char TF-IDF,RUWV-NSR,4,75.0,1.0,0.75
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,3class,Char TF-IDF,UCI,4,75.0,0.75,0.5
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,3class,Word TF-IDF,Khubaib01,4,75.0,0.667,0.917
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,3class,Word TF-IDF,RUWV-NSR,4,75.0,1.0,0.75
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,3class,Word TF-IDF,UCI,4,75.0,0.75,0.5
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,3class,XLM-R,Khubaib01,4,75.0,0.917,0.833
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,3class,XLM-R,RUWV-NSR,4,75.0,0.833,0.583
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,3class,XLM-R,UCI,4,75.0,0.75,0.5
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,mBERT,Aimlab,3,100.0,0.333,0.333
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,mBERT,Khubaib01,3,100.0,1.0,1.0
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,mBERT,RUWV-NSR,3,100.0,1.0,1.0
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,mBERT,UCI,3,100.0,1.0,1.0
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,Char TF-IDF,Aimlab,3,100.0,1.0,1.0
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,Char TF-IDF,Khubaib01,3,100.0,1.0,1.0
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,Char TF-IDF,RUWV-NSR,3,100.0,1.0,1.0
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,Char TF-IDF,UCI,3,100.0,1.0,1.0
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,Word TF-IDF,Aimlab,3,100.0,0.667,0.667
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,Word TF-IDF,Khubaib01,3,100.0,1.0,1.0
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,Word TF-IDF,RUWV-NSR,3,100.0,1.0,1.0
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,Word TF-IDF,UCI,3,100.0,0.667,0.667
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,XLM-R,Aimlab,3,100.0,0.778,0.778
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,XLM-R,Khubaib01,3,100.0,1.0,1.0
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,XLM-R,RUWV-NSR,3,100.0,1.0,1.0
+RUWV-NSR-Khubaib01,RUWV-NSR,Khubaib01,binary,XLM-R,UCI,3,100.0,0.889,0.889
+UCI-Aimlab,UCI,Aimlab,3class,mBERT,Khubaib01,522,99.8,0.361,0.359
+UCI-Aimlab,UCI,Aimlab,3class,mBERT,RUWV-NSR,522,99.8,0.466,0.466
+UCI-Aimlab,UCI,Aimlab,3class,mBERT,UCI,522,99.8,0.616,0.614
+UCI-Aimlab,UCI,Aimlab,3class,Char TF-IDF,Khubaib01,522,99.8,0.417,0.415
+UCI-Aimlab,UCI,Aimlab,3class,Char TF-IDF,RUWV-NSR,522,99.8,0.513,0.513
+UCI-Aimlab,UCI,Aimlab,3class,Char TF-IDF,UCI,522,99.8,0.695,0.693
+UCI-Aimlab,UCI,Aimlab,3class,Word TF-IDF,Khubaib01,522,99.8,0.513,0.511
+UCI-Aimlab,UCI,Aimlab,3class,Word TF-IDF,RUWV-NSR,522,99.8,0.481,0.48
+UCI-Aimlab,UCI,Aimlab,3class,Word TF-IDF,UCI,522,99.8,0.667,0.665
+UCI-Aimlab,UCI,Aimlab,3class,XLM-R,Khubaib01,522,99.8,0.36,0.358
+UCI-Aimlab,UCI,Aimlab,3class,XLM-R,RUWV-NSR,522,99.8,0.455,0.455
+UCI-Aimlab,UCI,Aimlab,3class,XLM-R,UCI,522,99.8,0.593,0.591
+UCI-Aimlab,UCI,Aimlab,binary,mBERT,Aimlab,1,100.0,1.0,1.0
+UCI-Aimlab,UCI,Aimlab,binary,mBERT,Khubaib01,1,100.0,1.0,1.0
+UCI-Aimlab,UCI,Aimlab,binary,mBERT,RUWV-NSR,1,100.0,1.0,1.0
+UCI-Aimlab,UCI,Aimlab,binary,mBERT,UCI,1,100.0,1.0,1.0
+UCI-Aimlab,UCI,Aimlab,binary,Char TF-IDF,Aimlab,1,100.0,1.0,1.0
+UCI-Aimlab,UCI,Aimlab,binary,Char TF-IDF,Khubaib01,1,100.0,0.667,0.667
+UCI-Aimlab,UCI,Aimlab,binary,Char TF-IDF,RUWV-NSR,1,100.0,1.0,1.0
+UCI-Aimlab,UCI,Aimlab,binary,Char TF-IDF,UCI,1,100.0,1.0,1.0
+UCI-Aimlab,UCI,Aimlab,binary,Word TF-IDF,Aimlab,1,100.0,1.0,1.0
+UCI-Aimlab,UCI,Aimlab,binary,Word TF-IDF,Khubaib01,1,100.0,1.0,1.0
+UCI-Aimlab,UCI,Aimlab,binary,Word TF-IDF,RUWV-NSR,1,100.0,1.0,1.0
+UCI-Aimlab,UCI,Aimlab,binary,Word TF-IDF,UCI,1,100.0,1.0,1.0
+UCI-Aimlab,UCI,Aimlab,binary,XLM-R,Aimlab,1,100.0,1.0,1.0
+UCI-Aimlab,UCI,Aimlab,binary,XLM-R,Khubaib01,1,100.0,1.0,1.0
+UCI-Aimlab,UCI,Aimlab,binary,XLM-R,RUWV-NSR,1,100.0,1.0,1.0
+UCI-Aimlab,UCI,Aimlab,binary,XLM-R,UCI,1,100.0,1.0,1.0
+UCI-Khubaib01,UCI,Khubaib01,3class,mBERT,Khubaib01,1555,84.0,0.547,0.591
+UCI-Khubaib01,UCI,Khubaib01,3class,mBERT,RUWV-NSR,1555,84.0,0.541,0.553
+UCI-Khubaib01,UCI,Khubaib01,3class,mBERT,UCI,1555,84.0,0.694,0.701
+UCI-Khubaib01,UCI,Khubaib01,3class,Char TF-IDF,Khubaib01,1555,84.0,0.577,0.618
+UCI-Khubaib01,UCI,Khubaib01,3class,Char TF-IDF,RUWV-NSR,1555,84.0,0.624,0.622
+UCI-Khubaib01,UCI,Khubaib01,3class,Char TF-IDF,UCI,1555,84.0,0.712,0.698
+UCI-Khubaib01,UCI,Khubaib01,3class,Word TF-IDF,Khubaib01,1555,84.0,0.555,0.583
+UCI-Khubaib01,UCI,Khubaib01,3class,Word TF-IDF,RUWV-NSR,1555,84.0,0.588,0.589
+UCI-Khubaib01,UCI,Khubaib01,3class,Word TF-IDF,UCI,1555,84.0,0.698,0.68
+UCI-Khubaib01,UCI,Khubaib01,3class,XLM-R,Khubaib01,1555,84.0,0.579,0.629
+UCI-Khubaib01,UCI,Khubaib01,3class,XLM-R,RUWV-NSR,1555,84.0,0.605,0.628
+UCI-Khubaib01,UCI,Khubaib01,3class,XLM-R,UCI,1555,84.0,0.725,0.759
+UCI-Khubaib01,UCI,Khubaib01,binary,mBERT,Aimlab,929,93.8,0.687,0.687
+UCI-Khubaib01,UCI,Khubaib01,binary,mBERT,Khubaib01,929,93.8,0.681,0.687
+UCI-Khubaib01,UCI,Khubaib01,binary,mBERT,RUWV-NSR,929,93.8,0.78,0.789
+UCI-Khubaib01,UCI,Khubaib01,binary,mBERT,UCI,929,93.8,0.808,0.818
+UCI-Khubaib01,UCI,Khubaib01,binary,Char TF-IDF,Aimlab,929,93.8,0.731,0.724
+UCI-Khubaib01,UCI,Khubaib01,binary,Char TF-IDF,Khubaib01,929,93.8,0.689,0.683
+UCI-Khubaib01,UCI,Khubaib01,binary,Char TF-IDF,RUWV-NSR,929,93.8,0.81,0.809
+UCI-Khubaib01,UCI,Khubaib01,binary,Char TF-IDF,UCI,929,93.8,0.841,0.845
+UCI-Khubaib01,UCI,Khubaib01,binary,Word TF-IDF,Aimlab,929,93.8,0.69,0.679
+UCI-Khubaib01,UCI,Khubaib01,binary,Word TF-IDF,Khubaib01,929,93.8,0.698,0.687
+UCI-Khubaib01,UCI,Khubaib01,binary,Word TF-IDF,RUWV-NSR,929,93.8,0.798,0.792
+UCI-Khubaib01,UCI,Khubaib01,binary,Word TF-IDF,UCI,929,93.8,0.828,0.83
+UCI-Khubaib01,UCI,Khubaib01,binary,XLM-R,Aimlab,929,93.8,0.726,0.717
+UCI-Khubaib01,UCI,Khubaib01,binary,XLM-R,Khubaib01,929,93.8,0.708,0.708
+UCI-Khubaib01,UCI,Khubaib01,binary,XLM-R,RUWV-NSR,929,93.8,0.793,0.813
+UCI-Khubaib01,UCI,Khubaib01,binary,XLM-R,UCI,929,93.8,0.836,0.851
+UCI-RUWV-NSR,UCI,RUWV-NSR,3class,mBERT,Khubaib01,100,99.0,0.523,0.533
+UCI-RUWV-NSR,UCI,RUWV-NSR,3class,mBERT,RUWV-NSR,100,99.0,0.533,0.543
+UCI-RUWV-NSR,UCI,RUWV-NSR,3class,mBERT,UCI,100,99.0,0.587,0.577
+UCI-RUWV-NSR,UCI,RUWV-NSR,3class,Char TF-IDF,Khubaib01,100,99.0,0.567,0.577
+UCI-RUWV-NSR,UCI,RUWV-NSR,3class,Char TF-IDF,RUWV-NSR,100,99.0,0.583,0.593
+UCI-RUWV-NSR,UCI,RUWV-NSR,3class,Char TF-IDF,UCI,100,99.0,0.57,0.56
+UCI-RUWV-NSR,UCI,RUWV-NSR,3class,Word TF-IDF,Khubaib01,100,99.0,0.6,0.61
+UCI-RUWV-NSR,UCI,RUWV-NSR,3class,Word TF-IDF,RUWV-NSR,100,99.0,0.623,0.633
+UCI-RUWV-NSR,UCI,RUWV-NSR,3class,Word TF-IDF,UCI,100,99.0,0.57,0.56
+UCI-RUWV-NSR,UCI,RUWV-NSR,3class,XLM-R,Khubaib01,100,99.0,0.62,0.63
+UCI-RUWV-NSR,UCI,RUWV-NSR,3class,XLM-R,RUWV-NSR,100,99.0,0.58,0.59
+UCI-RUWV-NSR,UCI,RUWV-NSR,3class,XLM-R,UCI,100,99.0,0.613,0.617
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,mBERT,Aimlab,99,100.0,0.727,0.727
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,mBERT,Khubaib01,99,100.0,0.67,0.67
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,mBERT,RUWV-NSR,99,100.0,0.747,0.747
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,mBERT,UCI,99,100.0,0.758,0.758
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,Char TF-IDF,Aimlab,99,100.0,0.758,0.758
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,Char TF-IDF,Khubaib01,99,100.0,0.724,0.724
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,Char TF-IDF,RUWV-NSR,99,100.0,0.751,0.751
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,Char TF-IDF,UCI,99,100.0,0.828,0.828
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,Word TF-IDF,Aimlab,99,100.0,0.818,0.818
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,Word TF-IDF,Khubaib01,99,100.0,0.774,0.774
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,Word TF-IDF,RUWV-NSR,99,100.0,0.727,0.727
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,Word TF-IDF,UCI,99,100.0,0.828,0.828
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,XLM-R,Aimlab,99,100.0,0.731,0.731
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,XLM-R,Khubaib01,99,100.0,0.737,0.737
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,XLM-R,RUWV-NSR,99,100.0,0.731,0.731
+UCI-RUWV-NSR,UCI,RUWV-NSR,binary,XLM-R,UCI,99,100.0,0.795,0.795

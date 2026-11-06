@@ -1,0 +1,7 @@
+corpus_a,corpus_b,shared,agreement_%,cohen_kappa
+aimlab,khubaib,15884,72.8,0.591
+uci,khubaib,15433,83.7,0.755
+uci,aimlab,5245,100.0,0.974
+uci,ruwv,861,97.6,0.951
+ruwv,khubaib,788,90.5,0.817
+aimlab,ruwv,27,51.9,0.1
